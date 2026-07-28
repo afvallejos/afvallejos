@@ -16,5 +16,7 @@ I develop computational methods and scientific software for understanding comple
 
 📍 Gothenburg, Sweden
 
+[Check my alternative site!](https://afvallejos.github.io/)
+
 ---
 *This profile primarily contains software supporting published research. Ongoing work associated with active research projects may not yet be publicly available.*
